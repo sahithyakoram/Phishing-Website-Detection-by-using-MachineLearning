@@ -23,5 +23,4 @@ The below mentioned category of features are extracted from the URL data:
 2. Random Forest
 3. Multilayer Perceptrons
 4. XGBoost
-5. Autoencoder Neural Network
-6. Support Vector Machines
+5. Support Vector Machines
